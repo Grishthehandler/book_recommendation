@@ -1,0 +1,15 @@
+# Ignore virtual environment
+bookrec_env/
+venv/
+
+# Ignore data files
+data/raw/
+data/processed/
+*.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
